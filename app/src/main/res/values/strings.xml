@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MetroPicker</string>
+    <string name="text">Виберіть станцію</string>
+    <string name="btn_txt">Вибір станції метро</string>
+</resources>
